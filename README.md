@@ -6,9 +6,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 🌱 I’m currently learning advanced algorithms and machine learning.
 - 🚀 I’m working on several exciting open-source projects.
 - 💬 Ask me about JavaScript, Python, React, and data visualization.
-- 📫 How to reach me: [felixlu07@example.com](mailto:felixlu07@example.com)
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love hiking and photography.
+- ⚡ Fun fact: I love hiking and gaming.
 
 ## Skills
 - **Languages:** JavaScript, Python, SQL
